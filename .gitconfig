@@ -1,0 +1,9 @@
+[color]
+	ui = true
+[user]
+	name = yun
+	email = yunfeilu33@hotmail.com
+[alias]
+	co = checkout
+[core]
+	editor = subl -w

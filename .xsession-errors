@@ -1,0 +1,123 @@
+/etc/mdm/Xsession: Beginning session setup...
+localuser:yunfei being added to access control list
+Script for none started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+Script for none started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-UyLFJz
+GNOME_KEYRING_PID=1997
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-UyLFJz
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-UyLFJz
+GPG_AGENT_INFO=/run/user/1000/keyring-UyLFJz/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-UyLFJz
+GPG_AGENT_INFO=/run/user/1000/keyring-UyLFJz/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-UyLFJz/ssh
+
+(cinnamon-settings-daemon:1993): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+libGL error: pci id for fd 9: 80ee:beef, driver (null)
+OpenGL Warning: Failed to connect to host. Make sure 3D acceleration is enabled for this VM.
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+Window manager warning: Software rendering detected: Gallium 0.4 on llvmpipe (LLVM 3.4, 128 bits)
+Window manager warning: Log level 16: g_object_set_valist: object class 'ClutterSettings' has no property named 'window-scaling-factor'
+      JS LOG: About to start Cinnamon
+      JS LOG: ACTIVATING SOFTWARE RENDERING
+
+** (nm-applet:2184): CRITICAL **: nm_secret_agent_register: assertion 'priv->registered == FALSE' failed
+nm-applet-Message: using fallback from indicator to GtkStatusIcon
+
+** (nemo:2183): WARNING **: Can not get _NET_WORKAREA
+
+** (nemo:2183): WARNING **: Can not determine workarea, guessing at layout
+Window manager warning: Trying to remove non-existent custom keybinding "magnifier-zoom-in".
+Window manager warning: Trying to remove non-existent custom keybinding "magnifier-zoom-out".
+      JS LOG: Cinnamon started at Thu Jun 26 2014 09:51:09 GMT-0700 (PDT)
+
+(cinnamon:2174): St-CRITICAL **: st_widget_get_theme_node called on the widget [0x8e83c88 StBoxLayout.menu-selected-app-box] which is not in the stage.
+      JS LOG: network applet: Cannot find connection for active (or connection cannot be read)
+      JS LOG: network applet: Found connection for active
+
+(mintUpdate.py:2279): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(mintUpdate.py:2279): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(mintUpdate.py:2279): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(mintUpdate.py:2279): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 29 was not found when attempting to remove it
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 308 was not found when attempting to remove it
+[1403801458,000,xklavier.c:xkl_engine_start_listen/] 	The backend does not require manual layout management - but it is provided by the application
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VBOX0
+     status: on
+     width: 1366
+     height: 663
+     rate: 60
+     primary: false
+     position: 0 0
+=== auto-configure - xinerama mode Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VBOX0
+     status: on
+     width: 1366
+     height: 663
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VBOX0
+     status: on
+     width: 1366
+     height: 663
+     rate: 60
+     primary: true
+     position: 0 0
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VBOX0
+     status: on
+     width: 667
+     height: 522
+     rate: 60
+     primary: false
+     position: 0 0
+=== auto-configure - xinerama mode Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VBOX0
+     status: on
+     width: 667
+     height: 522
+     rate: 60
+     primary: false
+     position: 0 0
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: VBX 0" attached to VBOX0
+     status: on
+     width: 667
+     height: 522
+     rate: 60
+     primary: true
+     position: 0 0
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 2455 was not found when attempting to remove it
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 2812 was not found when attempting to remove it
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 11501 was not found when attempting to remove it
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 32161 was not found when attempting to remove it
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 32539 was not found when attempting to remove it
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 34726 was not found when attempting to remove it
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 35046 was not found when attempting to remove it
+
+(cinnamon-screensaver:2275): GLib-CRITICAL **: Source ID 48486 was not found when attempting to remove it
